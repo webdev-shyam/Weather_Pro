@@ -150,10 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js](https://nextjs.org/) for the framework
 
 ## 📞 Support
-
-If you have any questions or need help, please:
-1. Check the [Issues](../../issues) page
-2. Create a new issue if needed
+1. +959941812364
+2. Emai: wid2839@gmail.com
 3. Provide detailed information about your problem
 
 ---
