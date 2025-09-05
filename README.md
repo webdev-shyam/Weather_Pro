@@ -15,7 +15,7 @@ A beautiful, production-ready weather application built with Next.js, React, Typ
 - **Smooth Animations**: Modern micro-interactions and transitions
 
 
-Live Preview "https://weather-pro-two-mu.vercel.app/"
+<a target="_blank" href="https://weather-pro-two-mu.vercel.app/">Live Preview</a>
 
 ## 🚀 Getting Started
 
