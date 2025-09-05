@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'WeatherPro - Beautiful Weather App',
   description: 'A stunning weather application with real-time forecasts and beautiful animations',
   keywords: 'weather, forecast, temperature, climate, weather app',
-  author: 'WeatherPro Team',
+
   viewport: 'width=device-width, initial-scale=1',
 };
 
