@@ -14,6 +14,9 @@ A beautiful, production-ready weather application built with Next.js, React, Typ
 - **Dynamic Backgrounds**: Weather-appropriate gradient backgrounds
 - **Smooth Animations**: Modern micro-interactions and transitions
 
+
+Live Preview "https://weather-pro-two-mu.vercel.app/"
+
 ## 🚀 Getting Started
 
 ### Prerequisites
